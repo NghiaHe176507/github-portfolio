@@ -13,11 +13,11 @@
         scrollOffset: 80,
         particleCount: 50,
         typedTexts: [
-            'Full Stack Developer',
-            'Frontend Specialist', 
-            'Backend Engineer',
-            'UI/UX Designer',
-            'Problem Solver'
+            'Java Developer (Fresher)',
+            'Java Developer (Fresher)', 
+            'Java Developer (Fresher)',
+            'Java Developer (Fresher)',
+            'Java Developer (Fresher)'
         ]
     };
 
